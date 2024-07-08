@@ -1,6 +1,6 @@
 # simple_ecommerce
 
-A simple e-Commerce App with Flutter and Dart.
+A simple E-Commerce App with Flutter and Dart.
 
 ## Screenshot
 
