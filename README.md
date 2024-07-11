@@ -1,6 +1,7 @@
 # simple_ecommerce
 
 A simple E-Commerce App with Flutter and Dart.
+Initialize the Flutter project,go to <strong>pubspec.yaml</strong> configuration file and run <code>pub get</code>.
 
 ## Screenshot
 
